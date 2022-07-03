@@ -1,0 +1,16 @@
+.post-card{
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0, 0.1);
+    
+  }
+  .post:hover{
+    transform: scale(1.2);
+  }
+  
+  .post img{
+    max-width: 100%;
+    
+  }
+  .post{
+    transition:transform 100ms ease-in-out;
+  }
